@@ -1,0 +1,19 @@
+{
+  "name": "proj-1-neog-know-me",
+  "version": "1.0.0",
+  "description": "CLI app for the know me quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshuldaksh2016/proj-1-neog-know-me.git"
+  },
+  "author": "Anshul Daksh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshuldaksh2016/proj-1-neog-know-me/issues"
+  },
+  "homepage": "https://github.com/anshuldaksh2016/proj-1-neog-know-me#readme"
+}
